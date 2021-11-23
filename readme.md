@@ -2,11 +2,11 @@
 
 Luke Carbis is a self-deputised open-source emissary and vigilante plenipotentiary for WordPress proletariat affairs. And although he enjoys a little facetious satire, he takes seriously the work he does with WordPress based startups to fast-track their growth and inspire beautifully design products.
 
-### Open Source
+## Open Source
 
 I have been an active contributor to the WordPress project since 2015. Although many of my contributions are code based, I have also organised meetups, organised multiple "WordCamp" multi-day conferences, and served as a core member of Release Teams (including Release Lead for version 4.9.1).
 
-### Employment History
+## Employment History
 
 #### Visser Labs
 
@@ -52,7 +52,7 @@ Unfortunately, as is often the case, our fast-moving startup team of passionate 
 I went freelance. I've got some _amazing_ clients who I adore working with, and all of whom are startups looking to build a better web.
 
 
-### Qualifications
+## Qualifications
 
 - **Bachelor of Learning Design** / Central Queensland University
 - Seth Godin's [AltMBA](https://altmba.com)
