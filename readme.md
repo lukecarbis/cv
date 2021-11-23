@@ -1,10 +1,10 @@
 # Curriculum Vitae
 
-Luke Carbis is a self-deputised open-source emissary and vigilante plenipotentiary for WordPress proletariat affairs. And although he enjoys a little facetious satire, he takes seriously the work he does with WordPress based startups to fast-track their growth and inspire beautifully design products.
+Luke Carbis is a self-deputised open-source emissary and vigilante plenipotentiary for WordPress proletariat affairs. And although he enjoys a little facetious satire, he takes seriously the work he does with web based startups to fast-track their growth and inspire beautifully designed products.
 
 ## Open Source
 
-I have been an active contributor to the WordPress project since 2015. Although many of my contributions are code based, I have also organised meetups, organised multiple "WordCamp" multi-day conferences, and served as a core member of Release Teams (including Release Lead for version 4.9.1).
+I have been an active contributor to the WordPress project since 2015. Although many of my contributions are code-based, I have also organised meetups, organised multiple "WordCamp" multi-day conferences, and served as a core member of Release Teams (including Release Lead for version 4.9.1).
 
 ## Employment History
 
@@ -12,7 +12,7 @@ I have been an active contributor to the WordPress project since 2015. Although 
 
 2012—2014 / _Cofounder and Lead Developer_
 
-I started this business in 2012 building ecommerce plugins for WordPress. We knew ecommerce would be a growth industry, so decided to build tools for the miners. We maintained a small team with a focus on building a long-term, sustainable, lifestyle business. I exited the company in 2014, but it [continues to sell ecommerce solutions](https://visser.com.au) to this day.
+I started this business in 2012, building ecommerce plugins for WordPress. We knew ecommerce would be a growth industry, so we decided to build solutions for merchants (tools for miners, so to speak). We maintained a small team with a focus on building a long-term, sustainable, lifestyle business. I exited the company in 2014, but it [continues to sell ecommerce solutions](https://visser.com.au) to this day.
 
 #### WP Stream
 
@@ -34,22 +34,22 @@ I eventually had a falling out with the owner of XWP. After some early interacti
 
 2019—2020 / _Cofounder and Head of Product_
 
-Recognising the impact of WordPress' transition from PHP templates to React block-based editing, I built a product which enabled agencies to create modern WordPress sites using traditional / existing workflows. It was the first product of its type, and it was tremendously well received. Within 3 months of starting work, we pre-launched Block Lab and began building customers and revenue. In a little over six months, the product was fully launched and we were making considerable figures. Noticing our success, WP Engine approached us with a very attractive offer of acquisition.
+Recognising the impact of WordPress' transition from PHP templates to React block-based editing, I built a product which enabled agencies to create modern WordPress sites using traditional / existing workflows. It was the first product of its type, and it was tremendously well received. Within 3 months of starting work, we pre-launched Block Lab and began building customers and revenue. In a little over six months, the product was fully launched and we were seeing considerable growth, and a freemium conversion of over 5%. Noticing our success, WP Engine approached us with a very attractive offer of acquisition.
 
-During this year I also held several small consulting contracts involving two key areas of interest: implementing agile workflows, and web security.
+During this year I also held several small consulting contracts involving two key areas of interest: implementing agile workflows and web security.
 
 #### WP Engine
 
 2020—2021 / _Who knows?_
 
-Unfortunately, as is often the case, our fast-moving startup team of passionate founders were quickly mired in bureaucracy and politics. I did my one-year golden-handcuffs gig and left.
+Unfortunately, as is often the case, our fast-moving scrappy team of versatile, passionate founders was quickly mired in bureaucracy and politics. I did my one-year golden-handcuffs gig and left.
 
 
-### Carbis Web Development
+#### Carbis Web Development
 
 2021—2022
 
-I went freelance. I've got some _amazing_ clients who I adore working with, and all of whom are startups looking to build a better web.
+I went freelance. I've got some _amazing_ clients who I adore working with, all of whom are startups looking to build a better web.
 
 
 ## Qualifications
